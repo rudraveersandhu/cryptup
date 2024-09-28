@@ -1,4 +1,4 @@
-# bharata
+# CryptUp
 
 A new Flutter project.
 
